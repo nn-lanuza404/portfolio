@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 
 // Default import – matches export default in Navbar.tsx
-import Navbar from "./components/Navbar";
+import Navbar from "../components/Navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
